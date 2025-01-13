@@ -1,6 +1,7 @@
 # Welcome to My GitHub Profile
 
-![Header Image](https://via.placeholder.com/1200x400?text=Welcome+to+Asaf+Rozen's+GitHub)
+<img src="header_en.svg"></img>
+
 
 Hello! I'm **Asaf Rozen**, a passionate computer science graduate from Bar-Ilan University (2021-2024). I specialize in innovative software development and am driven to create impactful solutions. 🚀
 
@@ -21,15 +22,15 @@ In addition to my love for coding, I’m an avid board game enthusiast and enjoy
 
 ### Languages & Frameworks
 
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black&style=flat-square)
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat-square)
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=white&style=flat-square)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white&height=20)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&height=20)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white&height=20)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white&height=20)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white&height=20)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white&height=20)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black&height=20)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white&height=20)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white&height=20)
 
 ### Tools & Platforms
 
@@ -44,25 +45,22 @@ In addition to my love for coding, I’m an avid board game enthusiast and enjoy
 
 
 
-
-
 ### **1. Cell Analysis and Counting System**  
 [![GitHub](https://img.shields.io/badge/Repository-Visit-blue?style=flat-square)](https://github.com/Asafaar/count-cells)
 
 - 🤖 Developed an ML solution using the **WEKA framework** for automated cell analysis.
 - 📊 Achieved **90%+ accuracy** and reduced laboratory workload by 15%.
 
-![Cell Analysis](https://via.placeholder.com/800x400?text=Cell+Analysis+System)
+<img src="https://github.com/Asafaar/count-cells/blob/Work/README-pic/predict-results.png" width="500" >
 
 ---
 
 ### **2. Chat Application in React and Android**
-[![GitHub](https://img.shields.io/badge/Repository-Visit-blue?style=flat-square)](https://github.com/Asafaar/whatsapp-part-4)
+<img src="https://raw.githubusercontent.com/AharonGross1/Chat-App/main/screenshots/main%20page%20web.png" width="500" >
 
 - 🔄 Built a real-time cross-platform chat system using **WebSockets** and **Node.js**.
 - ⚡ Focused on responsiveness and seamless synchronization.
 
-![Chat App](https://via.placeholder.com/800x400?text=Chat+Application)
 
 ---
 
@@ -71,7 +69,6 @@ In addition to my love for coding, I’m an avid board game enthusiast and enjoy
 - 🌱 Created an IoT-based irrigation system that automates watering based on soil moisture levels.
 - 📱 Developed a mobile app for real-time monitoring and irrigation history.
 
-![Smart Irrigation](https://via.placeholder.com/800x400?text=Smart+Irrigation+System)
 
 ---
 
